@@ -1,0 +1,2 @@
+class holamundo():
+  pass
